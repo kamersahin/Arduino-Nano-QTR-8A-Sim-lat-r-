@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QTR-8A Simulator",
+  "description": "Interactive simulation of Arduino Nano and QTR-8A analog line sensor array for robotics.",
+  "requestFramePermissions": []
+}
